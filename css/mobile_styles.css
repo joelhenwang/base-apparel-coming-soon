@@ -1,0 +1,47 @@
+@media (max-width:768px){
+    h1{
+        font-size: 3rem;
+    }
+    #left-container{
+        text-align: center;
+        float:none;
+        height: 50%;
+        width: 100%;
+    }
+
+    #right-container{
+        position: relative;
+        height: 20%;
+        width: 100%;
+        text-align: center;
+        bottom: 420px ;
+    }
+
+    .logo{
+        margin-top: 0;
+        margin-left: 0;
+        padding-top: 5%;
+    }
+
+    .info-text{
+        position: relative;
+        text-align: center;
+        top: 200px;
+    }
+
+    .message{
+        position: relative;
+        margin-right: 0;
+        padding: 0 10%;
+    }
+
+    .form{
+        height: 20%;
+    }
+
+    .submit{
+        width: 80px;
+    }
+
+
+}
